@@ -1,0 +1,2 @@
+pushi 5
+quit

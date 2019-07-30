@@ -1,0 +1,6 @@
+pushi 5
+pushi 0
+div
+pushi 4
+pushi 0
+rem

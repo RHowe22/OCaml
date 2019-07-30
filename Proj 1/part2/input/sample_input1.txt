@@ -1,0 +1,11 @@
+pushn x
+pushi 4
+pop
+pushb :true:
+pushb :false:
+and
+not
+pushb :false:
+or
+pushi 3
+quit

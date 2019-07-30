@@ -1,0 +1,18 @@
+fun stop y
+pushi 1
+return 
+funEnd
+fun mult x
+pushn x
+pushi 1
+sub
+pushn x
+pushi 0
+equal
+stop
+mult
+if
+call
+mul
+
+funEnd

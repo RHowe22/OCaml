@@ -1,0 +1,9 @@
+pushn a
+pushi 3
+bind
+pushn b
+pushi 5
+bind
+pushn a
+pushn b
+equal
